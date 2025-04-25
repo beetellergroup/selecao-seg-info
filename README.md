@@ -40,7 +40,7 @@ Você utilizará **dois tipos de acesso distintos**:
    - Utilizada para testes com as APIs documentadas
 
 2. **Conta de Backoffice (Interface Web)**  
-   - Você mesmo(a) deve criar uma conta usando seu e-mail pessoal diretamente em [https://test.beeteller.com](https://test.beeteller.com)  
+   - Você mesmo(a) deve criar uma conta usando seu e-mail pessoal diretamente em [https://hml.merchant.beeteller.com](https://hml.merchant.beeteller.com)  
    - Essa conta simulará o uso normal do sistema e permitirá testar fluxos reais da aplicação
 
 ---
@@ -99,6 +99,7 @@ Você pode entregar seu desafio via:
 - Clareza, organização e objetividade do relatório
 - Ética na abordagem e testes
 - Criatividade e uso de boas práticas em exploração e mitigação
+- Uso de ferramentas e técnicas não descritas no desafio
 
 ---
 
