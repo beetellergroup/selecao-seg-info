@@ -23,7 +23,7 @@ O seu desafio será:
 
 Você terá acesso a:
 
-- 🌐 **Aplicação Web (Backoffice)**: [https://test.beeteller.com](https://test.beeteller.com)  
+- 🌐 **Aplicação Web (Backoffice)**: [https://hml.merchant.beeteller.com](https://hml.merchant.beeteller.com)  
 - 📘 **Documentação das APIs públicas**: [https://docs.beeteller.com/reference/introduction](https://docs.beeteller.com/reference/introduction)  
 - 🔐 **Credenciais de API Sandbox**: serão enviadas por e-mail após o início do desafio
 
